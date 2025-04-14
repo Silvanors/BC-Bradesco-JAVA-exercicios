@@ -26,6 +26,8 @@ Modelo apresentado [E-commerce-refinado](Esquema_conceitual_e-commerce-refinado.
 * Queries SQL de manipulação dos dados: [Consultas](Queries_de_manipulação-Dados_inseridos_no_desafio.sql)
 <hr/>
 
+Repositório: https://github.com/digitalinnovationone/exercicios-java-basico
+
 **reproduzido by** [Silvano Rodrigues 🖖](https://github.com/Silvanors)
 
   
